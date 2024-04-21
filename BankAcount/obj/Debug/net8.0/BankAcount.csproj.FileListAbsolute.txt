@@ -1,0 +1,14 @@
+D:\homeworke\BankAcounteDomashna\BankAcount\bin\Debug\net8.0\BankAcount.exe
+D:\homeworke\BankAcounteDomashna\BankAcount\bin\Debug\net8.0\BankAcount.deps.json
+D:\homeworke\BankAcounteDomashna\BankAcount\bin\Debug\net8.0\BankAcount.runtimeconfig.json
+D:\homeworke\BankAcounteDomashna\BankAcount\bin\Debug\net8.0\BankAcount.dll
+D:\homeworke\BankAcounteDomashna\BankAcount\bin\Debug\net8.0\BankAcount.pdb
+D:\homeworke\BankAcounteDomashna\BankAcount\obj\Debug\net8.0\BankAcount.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\BankAcounteDomashna\BankAcount\obj\Debug\net8.0\BankAcount.AssemblyInfoInputs.cache
+D:\homeworke\BankAcounteDomashna\BankAcount\obj\Debug\net8.0\BankAcount.AssemblyInfo.cs
+D:\homeworke\BankAcounteDomashna\BankAcount\obj\Debug\net8.0\BankAcount.csproj.CoreCompileInputs.cache
+D:\homeworke\BankAcounteDomashna\BankAcount\obj\Debug\net8.0\BankAcount.dll
+D:\homeworke\BankAcounteDomashna\BankAcount\obj\Debug\net8.0\refint\BankAcount.dll
+D:\homeworke\BankAcounteDomashna\BankAcount\obj\Debug\net8.0\BankAcount.pdb
+D:\homeworke\BankAcounteDomashna\BankAcount\obj\Debug\net8.0\BankAcount.genruntimeconfig.cache
+D:\homeworke\BankAcounteDomashna\BankAcount\obj\Debug\net8.0\ref\BankAcount.dll

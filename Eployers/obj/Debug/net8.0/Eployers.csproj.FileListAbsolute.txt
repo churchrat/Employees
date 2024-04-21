@@ -1,0 +1,14 @@
+D:\homeworke\BankAcounteDomashna\Eployers\obj\Debug\net8.0\Eployers.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\BankAcounteDomashna\Eployers\obj\Debug\net8.0\Eployers.AssemblyInfoInputs.cache
+D:\homeworke\BankAcounteDomashna\Eployers\obj\Debug\net8.0\Eployers.AssemblyInfo.cs
+D:\homeworke\BankAcounteDomashna\Eployers\obj\Debug\net8.0\Eployers.csproj.CoreCompileInputs.cache
+D:\homeworke\BankAcounteDomashna\Eployers\bin\Debug\net8.0\Eployers.exe
+D:\homeworke\BankAcounteDomashna\Eployers\bin\Debug\net8.0\Eployers.deps.json
+D:\homeworke\BankAcounteDomashna\Eployers\bin\Debug\net8.0\Eployers.runtimeconfig.json
+D:\homeworke\BankAcounteDomashna\Eployers\bin\Debug\net8.0\Eployers.dll
+D:\homeworke\BankAcounteDomashna\Eployers\bin\Debug\net8.0\Eployers.pdb
+D:\homeworke\BankAcounteDomashna\Eployers\obj\Debug\net8.0\Eployers.dll
+D:\homeworke\BankAcounteDomashna\Eployers\obj\Debug\net8.0\refint\Eployers.dll
+D:\homeworke\BankAcounteDomashna\Eployers\obj\Debug\net8.0\Eployers.pdb
+D:\homeworke\BankAcounteDomashna\Eployers\obj\Debug\net8.0\Eployers.genruntimeconfig.cache
+D:\homeworke\BankAcounteDomashna\Eployers\obj\Debug\net8.0\ref\Eployers.dll
